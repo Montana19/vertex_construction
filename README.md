@@ -6,7 +6,7 @@
 
 Проект посвящён созданию многостраничного по структуре интерфейса с адаптацией под различные размеры экранов. В работе использованы CSS Grid, Flexbox, Media Queries и JavaScript.
 
-🔗 **Демо:** [Посмотреть проект](https://montana19.github.io/multiadaptive_site/)
+🔗 **Демо:** [Посмотреть проект](https://montana19.github.io/vertex_construction/)
 
 ---
 
