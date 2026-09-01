@@ -1,6 +1,6 @@
 # VERTEX
 
-![Превью сайта VERTEX](./img/preview.png)
+![Превью сайта VERTEX](./img/preview1.png)
 
 **VERTEX** — адаптивный сайт вымышленной строительной компании.
 
